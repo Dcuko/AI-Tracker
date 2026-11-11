@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Estado local do usuario (posicao, estilo, cache da ultima leitura)
+config.json
+cache_claude.json
+
+# Configuracao local do Claude Code
+.claude/
+
+# Editor / SO
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.log
