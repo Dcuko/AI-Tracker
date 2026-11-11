@@ -17,3 +17,6 @@ cache_claude.json
 Thumbs.db
 Desktop.ini
 *.log
+
+# Documentos internos de planejamento (nao sao para o usuario final)
+SPEC.md

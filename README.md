@@ -1,5 +1,7 @@
 # AI Tracker
 
+**Português** | [English](README.en.md)
+
 Sobreposição pequena, translúcida e click-through para Windows 11 que mostra o **limite restante da assinatura** das suas IAs de código: Claude Code, Codex CLI e Antigravity.
 
 Só precisa do Python 3.11+ que já vem instalado. Sem `pip install` e sem admin.
